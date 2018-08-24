@@ -1,5 +1,5 @@
 <?php
-// @chup1m
+//@chup1m
 //24 de agosto de 2018
 
 function view($name,$data=null,$print=true){
