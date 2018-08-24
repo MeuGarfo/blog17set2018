@@ -1,6 +1,6 @@
 <?php
-//retorna os segmentos da url
-//criado em 24 de agosto de 2018 por @chup1m
+//@chup1m
+//24 de agosto de 2018
 
 function segment($segmentId=null){
   $str=$_SERVER["REQUEST_URI"];
