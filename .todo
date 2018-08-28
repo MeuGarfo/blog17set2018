@@ -1,19 +1,22 @@
 <?xml version="1.0"?>
 <todo version="0.1.20">
+    <note priority="medium" time="1535457271" done="1535459436">
+        tela com a lista de categorias no hg
+    </note>
+    <note priority="high" time="1535457279">
+        tela com a lista de posts no hg
+    </note>
+    <note priority="high" time="1535457287">
+        tela para ver o post no hg
+    </note>
+    <note priority="high" time="1535459503">
+        tela para ver a lista de posts da categoria
+    </note>
     <note priority="medium" time="1535457255">
         tela para criar categorias no hg
     </note>
     <note priority="medium" time="1535457262">
         tela para criar post no hg
-    </note>
-    <note priority="medium" time="1535457271">
-        tela com a lista de categorias no hg
-    </note>
-    <note priority="medium" time="1535457279">
-        tela com a lista de posts no hg
-    </note>
-    <note priority="medium" time="1535457287">
-        tela para ver o post no hg
     </note>
     <note priority="medium" time="1535457299">
         colocar o hg online no chup1m.hackerint.com
